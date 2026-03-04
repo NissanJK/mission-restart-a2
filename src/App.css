@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+}
