@@ -19,7 +19,7 @@ const NavBar = () => {
                             <li><a>Blog</a></li>
                             <li><a>Download</a></li>
                             <li><a>Contact</a></li>
-                            <li><a className="btn text-base font-semibold gradient-one flex items-center"><FaPlus/>New Ticket</a></li>
+                            <li><a className="btn text-base font-semibold gradient-one flex items-center"><FaPlus />New Ticket</a></li>
                         </ul>
                     </div>
                     <a className="font-bold text-2xl">CS — Ticket System</a>
@@ -32,7 +32,7 @@ const NavBar = () => {
                         <li><a>Blog</a></li>
                         <li><a>Download</a></li>
                         <li><a>Contact</a></li>
-                        <li><a className="btn text-base font-semibold gradient-one flex items-center"><FaPlus/>New Ticket</a></li>
+                        <li><a className="btn text-base font-semibold gradient-one flex items-center"><FaPlus />New Ticket</a></li>
                     </ul>
                 </div>
             </div>

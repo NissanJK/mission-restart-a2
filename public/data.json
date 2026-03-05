@@ -23,7 +23,7 @@
     "description": "Customer cannot download the January invoice from the billing section. The download button appears inactive.",
     "customer": "Michael Brown",
     "priority": "MEDIUM",
-    "status": "IN_PROGRESS",
+    "status": "OPEN",
     "createdAt": "2024-01-17"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "#1005",
     "title": "App Crash on Launch",
-    "description": "Customer reports that the mobile application crashes immediately after opening on Android 13.",
+    "description": "Customer reports that the mobile application crashes immediately after ing on Android 13.",
     "customer": "David Wilson",
     "priority": "HIGH",
     "status": "OPEN",
@@ -50,7 +50,7 @@
     "description": "Customer requested a refund two weeks ago but has not yet received the credited amount.",
     "customer": "Sophia Taylor",
     "priority": "MEDIUM",
-    "status": "IN_PROGRESS",
+    "status": "OPEN",
     "createdAt": "2024-01-20"
   },
   {
@@ -77,7 +77,7 @@
     "description": "Customer wants to enable auto-renewal for their subscription but the toggle switch remains disabled.",
     "customer": "Liam Thomas",
     "priority": "MEDIUM",
-    "status": "IN_PROGRESS",
+    "status": "OPEN",
     "createdAt": "2024-01-23"
   },
   {
@@ -104,7 +104,7 @@
     "description": "Customer has not received shipment tracking details five days after order confirmation.",
     "customer": "Ava Rodriguez",
     "priority": "MEDIUM",
-    "status": "IN_PROGRESS",
+    "status": "OPEN",
     "createdAt": "2024-01-26"
   }
 ]
