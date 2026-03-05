@@ -29,7 +29,7 @@ const CustomerTickets = ({ dataPromise, setSelectedCount, setCompletedCount }) =
         setCompletedCount(prev => prev + 1);
         setAlertTitle(tickets.find(ticket => ticket.id === id).title);
         setShowAlert(true);
-        setTimeout(() => setShowAlert(false), 6000);
+        setTimeout(() => setShowAlert(false), 4000);
     };
 
     const inProgressTickets = tickets.filter(ticket => ticket.status === "IN_PROGRESS");
@@ -50,7 +50,7 @@ const CustomerTickets = ({ dataPromise, setSelectedCount, setCompletedCount }) =
                         ))}
                     </div>
                 </div>
-                <div className='flex flex-col w-full lg:w-1/5 h-screen gap-5'>
+                <div className='flex flex-col w-full lg:w-1/5 h-fit mt-10 lg:mt-0 gap-5'>
                     <div>
                         <h1 className='font-semibold text-2xl text-[#34485A]'>
                             Task Status

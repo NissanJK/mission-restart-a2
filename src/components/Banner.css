@@ -1,0 +1,8 @@
+.bg-one{
+    background-image: url('../assets/image.png');
+    background-size: cover;
+}
+.bg-two{
+    background-image: url('../assets/image2.png');
+    background-size: cover;
+}
